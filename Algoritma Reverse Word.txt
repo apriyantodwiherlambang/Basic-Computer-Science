@@ -1,0 +1,8 @@
+1. Mulai
+2. Input kalimat
+3. Cek kondisi, type of kalimat == "string"
+4. Jika salah tampilkan pesan (tipe data "harus string")
+5. Jika benar, maka akan diproses menggunakan method
+6. kalimat.split(" ").reserve().join(" ")
+7. Output kalimat
+8. Selesai

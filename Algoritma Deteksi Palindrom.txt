@@ -1,7 +1,7 @@
 1. Mulai
-2. input text
-3. cek kondisi, typeof text == "string"
-4. Jika salah tampilkan pesan (input data harus "string")
+2. Input text
+3. Cek kondisi, typeof text == "string"
+4. Jika salah tampilkan pesan (tipe data harus "string")
 5. Jika bernilai benar maka melanjutkan ke proses menentukan panjang dari text
 6. Untuk panjang text misal (x) = text.length - 1
 7. Cek kondisi x >= 0, jika benar, buat variabel penampung (hasil) lalu hasil = hasil + text[x]
