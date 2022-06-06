@@ -1,0 +1,14 @@
+1. Mulai
+2. input text
+3. cek kondisi, typeof text == "string"
+4. Jika salah tampilkan pesan (input data harus "string")
+5. Jika bernilai benar maka melanjutkan ke proses menentukan panjang dari text
+6. Untuk panjang text misal (x) = text.length - 1
+7. Cek kondisi x >= 0, jika benar, buat variabel penampung (hasil) lalu hasil = hasil + text[x]
+8. Lalu dekrement x dan kembalikan ke kondisi x >= 0
+9. Ulang proses tersebut hingga masih memenuhi x >= 0
+10. Jika x >= 0 bernilai salah maka tampilkan variabel hasil
+11. Cek apakah hasil == text
+12. Jika benar, maka output "Kata Adalah Palindrom"
+13. Jika salah, maka output "Kata Bukan Palindrom"
+14. Selesai
